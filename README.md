@@ -41,7 +41,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMD-LITEh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMD-LITE?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -204,7 +204,6 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - [Hector](https://github.com/OfficialKango)
 - [Baileys](https://github.com/WhiskeySockets)
-- [Cypher-X](https://github.com/Dark-Xploit) 
 - [Matrix](https://github.com/Matri199)
 
 ##
