@@ -41,7 +41,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMD-LITE?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/OfficialKango/KANGO-XMD-LITE/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
