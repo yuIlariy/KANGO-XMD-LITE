@@ -205,6 +205,9 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 - [Hector](https://github.com/OfficialKango)
 - [Baileys](https://github.com/WhiskeySockets)
 - [Matrix](https://github.com/Matri199)
+- 
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OfficialKango.KANGO-XMD-LITE)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
