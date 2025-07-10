@@ -207,9 +207,6 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 - [Matrix](https://github.com/Matri199)
 - 
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/OfficialKango.KANGO-XMD-LITE/visits)
-
-[![Hits](https://hits.link/hits?url=https://github.com/OfficialKango/KANGO-XMD-LITE)](https://hits.link)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
